@@ -1,0 +1,23 @@
+{
+  "name": "antaria-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "canvas": "^2.6.1",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^11.6.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15",
+    "ms": "^2.1.2",
+    "table": "^5.4.6"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}

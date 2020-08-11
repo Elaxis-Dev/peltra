@@ -1,0 +1,13 @@
+{
+
+	"version" : "1.0.4",
+
+    "name" : "Peltra",
+    "token"  : "NjY2MzI3MDc1MTk5Nzc4ODE4.XwBTMA.G_7jC8OV0QOTMhafSZgCJ20HDvU",
+    "prefix" : "+",
+    "invite" : "https://discordapp.com/oauth2/authorize?client_id=666327075199778818&scope=bot&permissions=272034919",
+
+    "Commandes" : "1",
+
+    "suggestcommand" : "+suggest"
+  }
