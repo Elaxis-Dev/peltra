@@ -1,0 +1,12 @@
+{
+  "giveaway":"🎉🎁**GIVEAWAY**🎁🎉",
+  "giveawayFini":"🎉🎁**GIVEAWAY FINI**🎁🎉",
+  "tempsrestant" : "*Temps restant,* **{duration}**",
+  "msgtoparticipate" : "**Ajoutez la réaction 🎉 pour participer !**",
+  "gagnant" : "Bravo **{winners}** ! Vous remportez le concours ({prize})",
+
+  "seconds" : "secondes",
+  "minuts" : "minutes",
+  "hours" : "heures",
+  "days" : "jours"
+}
